@@ -1,5 +1,3 @@
-
-
 package org.mukesh
 
 class JenkinsHello implements Serializable {
