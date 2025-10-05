@@ -13,3 +13,4 @@ class JenkinsHello implements Serializable {
         steps.echo "Hello Jenkins"
     }
 }
+
